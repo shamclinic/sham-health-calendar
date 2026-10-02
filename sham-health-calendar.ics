@@ -1,0 +1,2975 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sham Specialist Dental Complex//Health Calendar//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:تقويم شام الصحي
+NAME:تقويم شام الصحي
+X-APPLE-CALENDAR-COLOR:#2F78BB
+COLOR:steelblue
+X-WR-CALDESC:الأيام الصحية والمناسبات الوطنية 
+ والدينية - مجمعات شام الطبية المتخصصة في 
+ طب الأسنان
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:72240f886fc8e540@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260320
+SUMMARY:شهر رمضان المبارك ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ تتغير مواعيد الدوام وأنماط حجز المرضى خل
+ ال الشهر.\nالمقترح: إعلان دوام رمضان مبكر
+ اً، وتوعية المرضى بالعناية بالفم أثناء ا
+ لصيام.\nحسب تقويم أم القرى، مؤكد بإعلان ا
+ لمحكمة العليا.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:شهر رمضان المبارك - بعد 3 أسابيع: اب
+ دأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:شهر رمضان المبارك - بعد أسبوع: تذكي
+ ر أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d670bc2ebab326eb@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260323
+SUMMARY:عيد الفطر ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ إجازة رسمية، والأيام الأولى بعد العيد عا
+ دة تشهد ضغطاً في المواعيد.\nالمقترح: إعلا
+ ن مواعيد إجازة العيد، وتجهيز جدول الأطبا
+ ء لما بعد الإجازة، وتهنئة المرضى.\nحسب تق
+ ويم أم القرى، مؤكد بإعلان المحكمة العليا
+ .
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:عيد الفطر - بعد 3 أسابيع: ابدأ التحض
+ ير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:عيد الفطر - بعد أسبوع: تذكير أخير لل
+ تحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:db74c47f17b955cf@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260531
+SUMMARY:عيد الأضحى ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ إجازة رسمية تشمل أيام التشريق.\nالمقترح: 
+ إعلان مواعيد إجازة العيد وتغطية الطوارئ
+ ، وتهنئة المرضى.\nحسب تقويم أم القرى، مؤك
+ د بإعلان المحكمة العليا.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:عيد الأضحى - بعد 3 أسابيع: ابدأ التح
+ ضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:عيد الأضحى - بعد أسبوع: تذكير أخير ل
+ لتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0a7cf9ae6ad5738d@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270309
+SUMMARY:شهر رمضان المبارك ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ تتغير مواعيد الدوام وأنماط حجز المرضى خل
+ ال الشهر.\nالمقترح: إعلان دوام رمضان مبكر
+ اً، وتوعية المرضى بالعناية بالفم أثناء ا
+ لصيام.\nحسب تقويم أم القرى، قد يختلف يوما
+ ً حسب رؤية الهلال.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:شهر رمضان المبارك - بعد 3 أسابيع: اب
+ دأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:شهر رمضان المبارك - بعد أسبوع: تذكي
+ ر أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6ddfef618ea444bc@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270312
+SUMMARY:عيد الفطر ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ إجازة رسمية، والأيام الأولى بعد العيد عا
+ دة تشهد ضغطاً في المواعيد.\nالمقترح: إعلا
+ ن مواعيد إجازة العيد، وتجهيز جدول الأطبا
+ ء لما بعد الإجازة، وتهنئة المرضى.\nحسب تق
+ ويم أم القرى، قد يختلف يوماً حسب رؤية اله
+ لال.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:عيد الفطر - بعد 3 أسابيع: ابدأ التحض
+ ير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:عيد الفطر - بعد أسبوع: تذكير أخير لل
+ تحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7d3a607b9c2f5e18@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270520
+SUMMARY:عيد الأضحى ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ إجازة رسمية تشمل أيام التشريق.\nالمقترح: 
+ إعلان مواعيد إجازة العيد وتغطية الطوارئ
+ ، وتهنئة المرضى.\nحسب تقويم أم القرى، قد ي
+ ختلف يوماً حسب رؤية الهلال.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:عيد الأضحى - بعد 3 أسابيع: ابدأ التح
+ ضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:عيد الأضحى - بعد أسبوع: تذكير أخير ل
+ لتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:47bb4192dc4b2eb4@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20280128
+DTEND;VALUE=DATE:20280226
+SUMMARY:شهر رمضان المبارك ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ تتغير مواعيد الدوام وأنماط حجز المرضى خل
+ ال الشهر.\nالمقترح: إعلان دوام رمضان مبكر
+ اً، وتوعية المرضى بالعناية بالفم أثناء ا
+ لصيام.\nحسب تقويم أم القرى، قد يختلف يوما
+ ً حسب رؤية الهلال.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:شهر رمضان المبارك - بعد 3 أسابيع: اب
+ دأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:شهر رمضان المبارك - بعد أسبوع: تذكي
+ ر أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:950e9740b192fd1f@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280229
+SUMMARY:عيد الفطر ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ إجازة رسمية، والأيام الأولى بعد العيد عا
+ دة تشهد ضغطاً في المواعيد.\nالمقترح: إعلا
+ ن مواعيد إجازة العيد، وتجهيز جدول الأطبا
+ ء لما بعد الإجازة، وتهنئة المرضى.\nحسب تق
+ ويم أم القرى، قد يختلف يوماً حسب رؤية اله
+ لال.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:عيد الفطر - بعد 3 أسابيع: ابدأ التحض
+ ير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:عيد الفطر - بعد أسبوع: تذكير أخير لل
+ تحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65c24b239c2d8328@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280509
+SUMMARY:عيد الأضحى ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ إجازة رسمية تشمل أيام التشريق.\nالمقترح: 
+ إعلان مواعيد إجازة العيد وتغطية الطوارئ
+ ، وتهنئة المرضى.\nحسب تقويم أم القرى، قد ي
+ ختلف يوماً حسب رؤية الهلال.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:عيد الأضحى - بعد 3 أسابيع: ابدأ التح
+ ضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:عيد الأضحى - بعد أسبوع: تذكير أخير ل
+ لتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:87f75ec68e6d7087@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20290116
+DTEND;VALUE=DATE:20290214
+SUMMARY:شهر رمضان المبارك ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ تتغير مواعيد الدوام وأنماط حجز المرضى خل
+ ال الشهر.\nالمقترح: إعلان دوام رمضان مبكر
+ اً، وتوعية المرضى بالعناية بالفم أثناء ا
+ لصيام.\nحسب تقويم أم القرى، قد يختلف يوما
+ ً حسب رؤية الهلال.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:شهر رمضان المبارك - بعد 3 أسابيع: اب
+ دأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:شهر رمضان المبارك - بعد أسبوع: تذكي
+ ر أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3b9c0d2e0eb6baae@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20290214
+DTEND;VALUE=DATE:20290217
+SUMMARY:عيد الفطر ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ إجازة رسمية، والأيام الأولى بعد العيد عا
+ دة تشهد ضغطاً في المواعيد.\nالمقترح: إعلا
+ ن مواعيد إجازة العيد، وتجهيز جدول الأطبا
+ ء لما بعد الإجازة، وتهنئة المرضى.\nحسب تق
+ ويم أم القرى، قد يختلف يوماً حسب رؤية اله
+ لال.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:عيد الفطر - بعد 3 أسابيع: ابدأ التحض
+ ير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:عيد الفطر - بعد أسبوع: تذكير أخير لل
+ تحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401eed686e0afd76@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20290424
+DTEND;VALUE=DATE:20290428
+SUMMARY:عيد الأضحى ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ إجازة رسمية تشمل أيام التشريق.\nالمقترح: 
+ إعلان مواعيد إجازة العيد وتغطية الطوارئ
+ ، وتهنئة المرضى.\nحسب تقويم أم القرى، قد ي
+ ختلف يوماً حسب رؤية الهلال.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:عيد الأضحى - بعد 3 أسابيع: ابدأ التح
+ ضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:عيد الأضحى - بعد أسبوع: تذكير أخير ل
+ لتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:997a4eb0f37ce46f@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20300105
+DTEND;VALUE=DATE:20300204
+SUMMARY:شهر رمضان المبارك ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ تتغير مواعيد الدوام وأنماط حجز المرضى خل
+ ال الشهر.\nالمقترح: إعلان دوام رمضان مبكر
+ اً، وتوعية المرضى بالعناية بالفم أثناء ا
+ لصيام.\nحسب تقويم أم القرى، قد يختلف يوما
+ ً حسب رؤية الهلال.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:شهر رمضان المبارك - بعد 3 أسابيع: اب
+ دأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:شهر رمضان المبارك - بعد أسبوع: تذكي
+ ر أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9c6b6416503ad061@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20300204
+DTEND;VALUE=DATE:20300207
+SUMMARY:عيد الفطر ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ إجازة رسمية، والأيام الأولى بعد العيد عا
+ دة تشهد ضغطاً في المواعيد.\nالمقترح: إعلا
+ ن مواعيد إجازة العيد، وتجهيز جدول الأطبا
+ ء لما بعد الإجازة، وتهنئة المرضى.\nحسب تق
+ ويم أم القرى، قد يختلف يوماً حسب رؤية اله
+ لال.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:عيد الفطر - بعد 3 أسابيع: ابدأ التحض
+ ير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:عيد الفطر - بعد أسبوع: تذكير أخير لل
+ تحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cefaec6ca1e79cff@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20300413
+DTEND;VALUE=DATE:20300417
+SUMMARY:عيد الأضحى ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ إجازة رسمية تشمل أيام التشريق.\nالمقترح: 
+ إعلان مواعيد إجازة العيد وتغطية الطوارئ
+ ، وتهنئة المرضى.\nحسب تقويم أم القرى، قد ي
+ ختلف يوماً حسب رؤية الهلال.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:عيد الأضحى - بعد 3 أسابيع: ابدأ التح
+ ضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:عيد الأضحى - بعد أسبوع: تذكير أخير ل
+ لتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:997a4eb0f37ce46f@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20301226
+DTEND;VALUE=DATE:20310124
+SUMMARY:شهر رمضان المبارك ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ تتغير مواعيد الدوام وأنماط حجز المرضى خل
+ ال الشهر.\nالمقترح: إعلان دوام رمضان مبكر
+ اً، وتوعية المرضى بالعناية بالفم أثناء ا
+ لصيام.\nحسب تقويم أم القرى، قد يختلف يوما
+ ً حسب رؤية الهلال.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:شهر رمضان المبارك - بعد 3 أسابيع: اب
+ دأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:شهر رمضان المبارك - بعد أسبوع: تذكي
+ ر أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2286b6c26a05883c@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:اليوم العالمي للسرطان
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: سر
+ طان الفم يُكتشف كثيراً في عيادة الأسنان 
+ أولاً.\nالمقترح: تذكير الأطباء بالفحص الر
+ وتيني للأنسجة الرخوة ونشر محتوى عن علاما
+ ت الإنذار.\nوزارة الصحة: https://www.moh.gov.sa/HealthAw
+ areness/HealthDay/2026/Pages/HealthDay-2026-02-04-001.aspx
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+URL:https://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2
+ 026-02-04-001.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للسرطان - بعد 3 أسابي
+ ع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للسرطان - بعد أسبوع: 
+ تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:905a9ab23e7192f6@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:اليوم العالمي لصحة الفم والأسنان ⭐
+DESCRIPTION:صحة الفم والأسنان\nلماذا يهمنا: الي
+ وم الأهم في تقويم المجمع.\nالمقترح: فعالي
+ ة في الفروع، تزيين الاستقبال، عروض فحص، 
+ وحملة على التواصل الاجتماعي.\nوزارة الصح
+ ة: https://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-
+ 2026-03-20-001.aspx
+CATEGORIES:صحة الفم والأسنان
+TRANSP:TRANSPARENT
+URL:https://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2
+ 026-03-20-001.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لصحة الفم والأسنان - 
+ بعد 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لصحة الفم والأسنان - 
+ بعد أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ad355b0bcba96fd4@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260401
+SUMMARY:الأسبوع الخليجي للفم والأسنان ⭐
+DESCRIPTION:صحة الفم والأسنان\nلماذا يهمنا: أسب
+ وع توعية خليجي كامل مخصص لصحة الفم.\nالمق
+ ترح: زيارات مدارس، ورش تفريش للأطفال، وم
+ حتوى يومي طوال الأسبوع.\nوزارة الصحة: https:/
+ /www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2026-03-25-
+ 31-001.aspx
+CATEGORIES:صحة الفم والأسنان
+TRANSP:TRANSPARENT
+URL:https://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2
+ 026-03-25-31-001.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع الخليجي للفم والأسنان - بع
+ د 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع الخليجي للفم والأسنان - بع
+ د أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:53897fb419390fb9@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:يوم الصحة العالمي
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: صح
+ ة الفم جزء من الصحة العامة.\nالمقترح: ربط 
+ رسالة اليوم بالفحص الدوري للأسنان.\nوزار
+ ة الصحة: https://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages
+ /HealthDay-2026-04-07-001.aspx
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+URL:https://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2
+ 026-04-07-001.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم الصحة العالمي - بعد 3 أسابيع: اب
+ دأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم الصحة العالمي - بعد أسبوع: تذكي
+ ر أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7d3f4c5ed577a8c2@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260501
+SUMMARY:الأسبوع العالمي للتحصينات
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: حماية ا
+ لطاقم من التهاب الكبد B والأمراض المعدية.
+ \nالمقترح: مراجعة سجل تطعيمات الموظفين وا
+ ستكمال الناقص.\nوزارة الصحة: https://www.moh.gov.sa/
+ HealthAwareness/HealthDay/2026/Pages/HealthDay-2026-04-26-30-001.aspx
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+URL:https://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2
+ 026-04-26-30-001.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع العالمي للتحصينات - بعد 3 أ
+ سابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع العالمي للتحصينات - بعد أس
+ بوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:681472de4baf26c5@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:اليوم العالمي للتمريض
+DESCRIPTION:السلامة والفريق\nلماذا يهمنا: تقدي
+ ر مساعدي الأطباء وطاقم التمريض في العياد
+ ات.\nالمقترح: رسالة شكر ولفتة تقدير للفري
+ ق.\nوزارة الصحة: https://www.moh.gov.sa/HealthAwareness/HealthD
+ ay/2026/Pages/HealthDay-2026-05-12-001.aspx
+CATEGORIES:السلامة والفريق
+TRANSP:TRANSPARENT
+URL:https://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2
+ 026-05-12-001.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للتمريض - بعد 3 أسابي
+ ع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للتمريض - بعد أسبوع: 
+ تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9c7f4b2f83a097f7@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:اليوم العالمي لمكافحة التدخين
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: ال
+ تدخين يسبب أمراض اللثة والتصبغات وسرطان 
+ الفم.\nالمقترح: توعية المرضى المدخنين وتو
+ جيههم لعيادات الإقلاع.\nوزارة الصحة: https://
+ www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2026-05-31-0
+ 01.aspx
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+URL:https://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2
+ 026-05-31-001.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لمكافحة التدخين - بع
+ د 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لمكافحة التدخين - بع
+ د أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:368b198baa586b31@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:اليوم العالمي لسلامة المرضى ⭐
+DESCRIPTION:السلامة والفريق\nلماذا يهمنا: من مت
+ طلبات الاعتماد (سباهي) وثقافة السلامة.\nا
+ لمقترح: مراجعة الأحداث العارضة والتحقق م
+ ن هوية المريض قبل الإجراء.\nوزارة الصحة: ht
+ tps://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2026-0
+ 9-17-001.aspx
+CATEGORIES:السلامة والفريق
+TRANSP:TRANSPARENT
+URL:https://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2
+ 026-09-17-001.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لسلامة المرضى - بعد 3 
+ أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لسلامة المرضى - بعد أ
+ سبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1aafa373221910d0@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:اليوم العالمي لكبار السن
+DESCRIPTION:فئات المرضى\nلماذا يهمنا: أطقم الأس
+ نان وجفاف الفم وصحة اللثة لدى المسنين.\nا
+ لمقترح: تسهيلات لكبار السن ومحتوى عن الع
+ ناية بالتركيبات.\nوزارة الصحة: https://www.moh.gov
+ .sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2026-10-01-001.aspx
+CATEGORIES:فئات المرضى
+TRANSP:TRANSPARENT
+URL:https://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2
+ 026-10-01-001.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لكبار السن - بعد 3 أسا
+ بيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لكبار السن - بعد أسبو
+ ع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4bb78d839b359897@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261019
+SUMMARY:الأسبوع العالمي لمكافحة العدوى ⭐
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: جوهر ال
+ عمل اليومي في عيادات الأسنان.\nالمقترح: ت
+ دقيق التعقيم وغرفة الأدوات، وتدريب الطا
+ قم على الاحتياطات القياسية.\nوزارة الصحة:
+  https://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-202
+ 6-10-13-001.aspx
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+URL:https://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2
+ 026-10-13-001.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع العالمي لمكافحة العدوى - ب
+ عد 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع العالمي لمكافحة العدوى - ب
+ عد أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:73d3d7c9412e6f9e@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:اليوم العالمي لغسل اليدين ⭐
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: نظافة ا
+ لأيدي أول خط دفاع ضد العدوى في العيادة.\nا
+ لمقترح: عرض خطوات غسل اليدين وجولة تدقيق 
+ على الالتزام.\nوزارة الصحة: https://www.moh.gov.sa/He
+ althAwareness/HealthDay/2026/Pages/HealthDay-2026-10-15-001.aspx
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+URL:https://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2
+ 026-10-15-001.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لغسل اليدين - بعد 3 أس
+ ابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لغسل اليدين - بعد أسب
+ وع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2cdf9aeeba28284b@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:اليوم العالمي للسكري
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: ال
+ علاقة ثنائية الاتجاه بين السكري والتهاب 
+ اللثة.\nالمقترح: محتوى توعوي وفحص لثة لمر
+ ضى السكري.\nوزارة الصحة: https://www.moh.gov.sa/HealthAw
+ areness/HealthDay/2026/Pages/HealthDay-2026-11-14-001.aspx
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+URL:https://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2
+ 026-11-14-001.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للسكري - بعد 3 أسابيع:
+  ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للسكري - بعد أسبوع: ت
+ ذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1643762ea6f6b0a8@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261125
+SUMMARY:الأسبوع العالمي للتوعية بمقاومة الم
+ ضادات الحيوية
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: أطباء ا
+ لأسنان من الواصفين الرئيسيين للمضادات ا
+ لحيوية.\nالمقترح: مراجعة سياسة وصف المضاد
+ ات الحيوية في العيادات.\nوزارة الصحة: https:/
+ /www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2026-11-18-
+ 24-001.aspx
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+URL:https://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2
+ 026-11-18-24-001.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع العالمي للتوعية بمقاومة ا
+ لمضادات الحيوية - بعد 3 أسابيع: ابدأ التحض
+ ير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع العالمي للتوعية بمقاومة ا
+ لمضادات الحيوية - بعد أسبوع: تذكير أخير ل
+ لتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2754ff8ba6988fbf@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:اليوم العالمي للطفل
+DESCRIPTION:فئات المرضى\nلماذا يهمنا: صحة أسنان
+  الأطفال تبدأ من سن مبكرة.\nالمقترح: أنشطة
+  للأطفال وهدايا فرش أسنان في عيادات الأط
+ فال.\nوزارة الصحة: https://www.moh.gov.sa/HealthAwareness/Hea
+ lthDay/2026/Pages/HealthDay-2026-11-20-001.aspx
+CATEGORIES:فئات المرضى
+TRANSP:TRANSPARENT
+URL:https://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2
+ 026-11-20-001.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للطفل - بعد 3 أسابيع: 
+ ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للطفل - بعد أسبوع: تذ
+ كير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1c337b617ed1225c@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:يوم التأسيس
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ذكرى تأسيس الدولة السعودية الأولى عام 1727
+ م، وهو إجازة رسمية.\nالمقترح: إعلان مواعي
+ د العمل في الإجازة وتهنئة المرضى على حسا
+ بات المجمع.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم التأسيس - بعد 3 أسابيع: ابدأ الت
+ حضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم التأسيس - بعد أسبوع: تذكير أخير 
+ للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:af1973ce5347ed5d@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:يوم الأم
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ليس مناسبة رسمية في المملكة، ويحتفل به ا
+ جتماعياً وتجارياً يوم 21 مارس.\nالمقترح: ت
+ هنئة للمريضات والموظفات، ويمكن ربطه بعر
+ ض فحص أو تنظيف للأمهات.\nمناسبة غير رسمية 
+ في المملكة.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم الأم - بعد 3 أسابيع: ابدأ التحضي
+ ر
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم الأم - بعد أسبوع: تذكير أخير للت
+ حضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7046167a83c354ec@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:يوم الأب
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ليس مناسبة رسمية في المملكة، ويحتفل به ا
+ جتماعياً يوم 21 يونيو.\nالمقترح: تهنئة للم
+ رضى والموظفين على حسابات المجمع.\nمناسبة 
+ غير رسمية في المملكة.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم الأب - بعد 3 أسابيع: ابدأ التحضي
+ ر
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم الأب - بعد أسبوع: تذكير أخير للت
+ حضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a5842d0957894e92@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:اليوم الوطني السعودي ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ذكرى توحيد المملكة عام 1932م، وهو إجازة رس
+ مية.\nالمقترح: تزيين الفروع بالأخضر، إعلا
+ ن مواعيد الإجازة، وتهنئة وطنية على حسابا
+ ت المجمع.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم الوطني السعودي - بعد 3 أسابيع:
+  ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم الوطني السعودي - بعد أسبوع: ت
+ ذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5533d070361f7f38@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:اليوم العالمي لذوي الإعاقة
+DESCRIPTION:فئات المرضى\nلماذا يهمنا: علاج أسنا
+ ن ذوي الاحتياجات الخاصة يتطلب تهيئة.\nالم
+ قترح: مراجعة إمكانية الوصول في الفروع وت
+ دريب الاستقبال.\nوزارة الصحة: https://www.moh.gov.s
+ a/HealthAwareness/HealthDay/2026/Pages/HealthDay-2026-12-03-001.aspx
+CATEGORIES:فئات المرضى
+TRANSP:TRANSPARENT
+URL:https://www.moh.gov.sa/HealthAwareness/HealthDay/2026/Pages/HealthDay-2
+ 026-12-03-001.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لذوي الإعاقة - بعد 3 أ
+ سابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لذوي الإعاقة - بعد أس
+ بوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6d2f310558594975@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:اليوم العالمي للسرطان
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: سر
+ طان الفم يُكتشف كثيراً في عيادة الأسنان 
+ أولاً.\nالمقترح: تذكير الأطباء بالفحص الر
+ وتيني للأنسجة الرخوة ونشر محتوى عن علاما
+ ت الإنذار.\nتاريخ متوقع، يُحدَّث عند إعلا
+ ن وزارة الصحة.
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للسرطان - بعد 3 أسابي
+ ع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للسرطان - بعد أسبوع: 
+ تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bc407e1eb9354b0f@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:اليوم العالمي لصحة الفم والأسنان ⭐
+DESCRIPTION:صحة الفم والأسنان\nلماذا يهمنا: الي
+ وم الأهم في تقويم المجمع.\nالمقترح: فعالي
+ ة في الفروع، تزيين الاستقبال، عروض فحص، 
+ وحملة على التواصل الاجتماعي.\nتاريخ متوق
+ ع، يُحدَّث عند إعلان وزارة الصحة.
+CATEGORIES:صحة الفم والأسنان
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لصحة الفم والأسنان - 
+ بعد 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لصحة الفم والأسنان - 
+ بعد أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2c412ffd5d8956c8@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270401
+SUMMARY:الأسبوع الخليجي للفم والأسنان ⭐
+DESCRIPTION:صحة الفم والأسنان\nلماذا يهمنا: أسب
+ وع توعية خليجي كامل مخصص لصحة الفم.\nالمق
+ ترح: زيارات مدارس، ورش تفريش للأطفال، وم
+ حتوى يومي طوال الأسبوع.\nتاريخ متوقع، يُح
+ دَّث عند إعلان وزارة الصحة.
+CATEGORIES:صحة الفم والأسنان
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع الخليجي للفم والأسنان - بع
+ د 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع الخليجي للفم والأسنان - بع
+ د أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:636eb6c3fc8bf5e5@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:يوم الصحة العالمي
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: صح
+ ة الفم جزء من الصحة العامة.\nالمقترح: ربط 
+ رسالة اليوم بالفحص الدوري للأسنان.\nتاري
+ خ متوقع، يُحدَّث عند إعلان وزارة الصحة.
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم الصحة العالمي - بعد 3 أسابيع: اب
+ دأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم الصحة العالمي - بعد أسبوع: تذكي
+ ر أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:08b31fa7b9e883e2@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270501
+SUMMARY:الأسبوع العالمي للتحصينات
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: حماية ا
+ لطاقم من التهاب الكبد B والأمراض المعدية.
+ \nالمقترح: مراجعة سجل تطعيمات الموظفين وا
+ ستكمال الناقص.\nتاريخ متوقع، يُحدَّث عند 
+ إعلان وزارة الصحة.
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع العالمي للتحصينات - بعد 3 أ
+ سابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع العالمي للتحصينات - بعد أس
+ بوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4e1c21ee8b26c094@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:اليوم العالمي للتمريض
+DESCRIPTION:السلامة والفريق\nلماذا يهمنا: تقدي
+ ر مساعدي الأطباء وطاقم التمريض في العياد
+ ات.\nالمقترح: رسالة شكر ولفتة تقدير للفري
+ ق.\nتاريخ متوقع، يُحدَّث عند إعلان وزارة 
+ الصحة.
+CATEGORIES:السلامة والفريق
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للتمريض - بعد 3 أسابي
+ ع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للتمريض - بعد أسبوع: 
+ تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f83e4875362e45cd@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:اليوم العالمي لمكافحة التدخين
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: ال
+ تدخين يسبب أمراض اللثة والتصبغات وسرطان 
+ الفم.\nالمقترح: توعية المرضى المدخنين وتو
+ جيههم لعيادات الإقلاع.\nتاريخ متوقع، يُح
+ دَّث عند إعلان وزارة الصحة.
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لمكافحة التدخين - بع
+ د 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لمكافحة التدخين - بع
+ د أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d832b105445ab54e@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:اليوم العالمي لسلامة المرضى ⭐
+DESCRIPTION:السلامة والفريق\nلماذا يهمنا: من مت
+ طلبات الاعتماد (سباهي) وثقافة السلامة.\nا
+ لمقترح: مراجعة الأحداث العارضة والتحقق م
+ ن هوية المريض قبل الإجراء.\nتاريخ متوقع، 
+ يُحدَّث عند إعلان وزارة الصحة.
+CATEGORIES:السلامة والفريق
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لسلامة المرضى - بعد 3 
+ أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لسلامة المرضى - بعد أ
+ سبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:19035b2596877b66@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:اليوم العالمي لكبار السن
+DESCRIPTION:فئات المرضى\nلماذا يهمنا: أطقم الأس
+ نان وجفاف الفم وصحة اللثة لدى المسنين.\nا
+ لمقترح: تسهيلات لكبار السن ومحتوى عن الع
+ ناية بالتركيبات.\nتاريخ متوقع، يُحدَّث ع
+ ند إعلان وزارة الصحة.
+CATEGORIES:فئات المرضى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لكبار السن - بعد 3 أسا
+ بيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لكبار السن - بعد أسبو
+ ع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:51acaa0cbc7613c2@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271019
+SUMMARY:الأسبوع العالمي لمكافحة العدوى ⭐
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: جوهر ال
+ عمل اليومي في عيادات الأسنان.\nالمقترح: ت
+ دقيق التعقيم وغرفة الأدوات، وتدريب الطا
+ قم على الاحتياطات القياسية.\nتاريخ متوقع
+ ، يُحدَّث عند إعلان وزارة الصحة.
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع العالمي لمكافحة العدوى - ب
+ عد 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع العالمي لمكافحة العدوى - ب
+ عد أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2c0f76e2d12591d9@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:اليوم العالمي لغسل اليدين ⭐
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: نظافة ا
+ لأيدي أول خط دفاع ضد العدوى في العيادة.\nا
+ لمقترح: عرض خطوات غسل اليدين وجولة تدقيق 
+ على الالتزام.\nتاريخ متوقع، يُحدَّث عند إ
+ علان وزارة الصحة.
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لغسل اليدين - بعد 3 أس
+ ابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لغسل اليدين - بعد أسب
+ وع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:42f259417a0c2a2e@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+SUMMARY:اليوم العالمي للسكري
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: ال
+ علاقة ثنائية الاتجاه بين السكري والتهاب 
+ اللثة.\nالمقترح: محتوى توعوي وفحص لثة لمر
+ ضى السكري.\nتاريخ متوقع، يُحدَّث عند إعلا
+ ن وزارة الصحة.
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للسكري - بعد 3 أسابيع:
+  ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للسكري - بعد أسبوع: ت
+ ذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2b5d33716bfd82db@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271125
+SUMMARY:الأسبوع العالمي للتوعية بمقاومة الم
+ ضادات الحيوية
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: أطباء ا
+ لأسنان من الواصفين الرئيسيين للمضادات ا
+ لحيوية.\nالمقترح: مراجعة سياسة وصف المضاد
+ ات الحيوية في العيادات.\nتاريخ متوقع، يُح
+ دَّث عند إعلان وزارة الصحة.
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع العالمي للتوعية بمقاومة ا
+ لمضادات الحيوية - بعد 3 أسابيع: ابدأ التحض
+ ير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع العالمي للتوعية بمقاومة ا
+ لمضادات الحيوية - بعد أسبوع: تذكير أخير ل
+ لتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3ee59c5b346368d9@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20271120
+DTEND;VALUE=DATE:20271121
+SUMMARY:اليوم العالمي للطفل
+DESCRIPTION:فئات المرضى\nلماذا يهمنا: صحة أسنان
+  الأطفال تبدأ من سن مبكرة.\nالمقترح: أنشطة
+  للأطفال وهدايا فرش أسنان في عيادات الأط
+ فال.\nتاريخ متوقع، يُحدَّث عند إعلان وزار
+ ة الصحة.
+CATEGORIES:فئات المرضى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للطفل - بعد 3 أسابيع: 
+ ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للطفل - بعد أسبوع: تذ
+ كير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4694f1414df1ce4e@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:يوم التأسيس
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ذكرى تأسيس الدولة السعودية الأولى عام 1727
+ م، وهو إجازة رسمية.\nالمقترح: إعلان مواعي
+ د العمل في الإجازة وتهنئة المرضى على حسا
+ بات المجمع.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم التأسيس - بعد 3 أسابيع: ابدأ الت
+ حضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم التأسيس - بعد أسبوع: تذكير أخير 
+ للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11b439c9d5c64c45@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:يوم الأم
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ليس مناسبة رسمية في المملكة، ويحتفل به ا
+ جتماعياً وتجارياً يوم 21 مارس.\nالمقترح: ت
+ هنئة للمريضات والموظفات، ويمكن ربطه بعر
+ ض فحص أو تنظيف للأمهات.\nمناسبة غير رسمية 
+ في المملكة.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم الأم - بعد 3 أسابيع: ابدأ التحضي
+ ر
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم الأم - بعد أسبوع: تذكير أخير للت
+ حضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5ce771b6fe6cc196@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:يوم الأب
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ليس مناسبة رسمية في المملكة، ويحتفل به ا
+ جتماعياً يوم 21 يونيو.\nالمقترح: تهنئة للم
+ رضى والموظفين على حسابات المجمع.\nمناسبة 
+ غير رسمية في المملكة.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم الأب - بعد 3 أسابيع: ابدأ التحضي
+ ر
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم الأب - بعد أسبوع: تذكير أخير للت
+ حضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64a74f23454bde37@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:اليوم الوطني السعودي ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ذكرى توحيد المملكة عام 1932م، وهو إجازة رس
+ مية.\nالمقترح: تزيين الفروع بالأخضر، إعلا
+ ن مواعيد الإجازة، وتهنئة وطنية على حسابا
+ ت المجمع.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم الوطني السعودي - بعد 3 أسابيع:
+  ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم الوطني السعودي - بعد أسبوع: ت
+ ذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d1371027b442b221@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20271203
+DTEND;VALUE=DATE:20271204
+SUMMARY:اليوم العالمي لذوي الإعاقة
+DESCRIPTION:فئات المرضى\nلماذا يهمنا: علاج أسنا
+ ن ذوي الاحتياجات الخاصة يتطلب تهيئة.\nالم
+ قترح: مراجعة إمكانية الوصول في الفروع وت
+ دريب الاستقبال.\nتاريخ متوقع، يُحدَّث عن
+ د إعلان وزارة الصحة.
+CATEGORIES:فئات المرضى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لذوي الإعاقة - بعد 3 أ
+ سابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لذوي الإعاقة - بعد أس
+ بوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:73f93636baf793b9@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20280204
+DTEND;VALUE=DATE:20280205
+SUMMARY:اليوم العالمي للسرطان
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: سر
+ طان الفم يُكتشف كثيراً في عيادة الأسنان 
+ أولاً.\nالمقترح: تذكير الأطباء بالفحص الر
+ وتيني للأنسجة الرخوة ونشر محتوى عن علاما
+ ت الإنذار.\nتاريخ متوقع، يُحدَّث عند إعلا
+ ن وزارة الصحة.
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للسرطان - بعد 3 أسابي
+ ع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للسرطان - بعد أسبوع: 
+ تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc3218402c16452@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20280320
+DTEND;VALUE=DATE:20280321
+SUMMARY:اليوم العالمي لصحة الفم والأسنان ⭐
+DESCRIPTION:صحة الفم والأسنان\nلماذا يهمنا: الي
+ وم الأهم في تقويم المجمع.\nالمقترح: فعالي
+ ة في الفروع، تزيين الاستقبال، عروض فحص، 
+ وحملة على التواصل الاجتماعي.\nتاريخ متوق
+ ع، يُحدَّث عند إعلان وزارة الصحة.
+CATEGORIES:صحة الفم والأسنان
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لصحة الفم والأسنان - 
+ بعد 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لصحة الفم والأسنان - 
+ بعد أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:abcc7ef5a7878498@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20280325
+DTEND;VALUE=DATE:20280401
+SUMMARY:الأسبوع الخليجي للفم والأسنان ⭐
+DESCRIPTION:صحة الفم والأسنان\nلماذا يهمنا: أسب
+ وع توعية خليجي كامل مخصص لصحة الفم.\nالمق
+ ترح: زيارات مدارس، ورش تفريش للأطفال، وم
+ حتوى يومي طوال الأسبوع.\nتاريخ متوقع، يُح
+ دَّث عند إعلان وزارة الصحة.
+CATEGORIES:صحة الفم والأسنان
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع الخليجي للفم والأسنان - بع
+ د 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع الخليجي للفم والأسنان - بع
+ د أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a038c450d48d5784@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20280407
+DTEND;VALUE=DATE:20280408
+SUMMARY:يوم الصحة العالمي
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: صح
+ ة الفم جزء من الصحة العامة.\nالمقترح: ربط 
+ رسالة اليوم بالفحص الدوري للأسنان.\nتاري
+ خ متوقع، يُحدَّث عند إعلان وزارة الصحة.
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم الصحة العالمي - بعد 3 أسابيع: اب
+ دأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم الصحة العالمي - بعد أسبوع: تذكي
+ ر أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5c628de89abd09ca@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20280426
+DTEND;VALUE=DATE:20280501
+SUMMARY:الأسبوع العالمي للتحصينات
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: حماية ا
+ لطاقم من التهاب الكبد B والأمراض المعدية.
+ \nالمقترح: مراجعة سجل تطعيمات الموظفين وا
+ ستكمال الناقص.\nتاريخ متوقع، يُحدَّث عند 
+ إعلان وزارة الصحة.
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع العالمي للتحصينات - بعد 3 أ
+ سابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع العالمي للتحصينات - بعد أس
+ بوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f678c7b6f515fa90@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20280512
+DTEND;VALUE=DATE:20280513
+SUMMARY:اليوم العالمي للتمريض
+DESCRIPTION:السلامة والفريق\nلماذا يهمنا: تقدي
+ ر مساعدي الأطباء وطاقم التمريض في العياد
+ ات.\nالمقترح: رسالة شكر ولفتة تقدير للفري
+ ق.\nتاريخ متوقع، يُحدَّث عند إعلان وزارة 
+ الصحة.
+CATEGORIES:السلامة والفريق
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للتمريض - بعد 3 أسابي
+ ع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للتمريض - بعد أسبوع: 
+ تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e0fa81490544f626@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20280531
+DTEND;VALUE=DATE:20280601
+SUMMARY:اليوم العالمي لمكافحة التدخين
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: ال
+ تدخين يسبب أمراض اللثة والتصبغات وسرطان 
+ الفم.\nالمقترح: توعية المرضى المدخنين وتو
+ جيههم لعيادات الإقلاع.\nتاريخ متوقع، يُح
+ دَّث عند إعلان وزارة الصحة.
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لمكافحة التدخين - بع
+ د 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لمكافحة التدخين - بع
+ د أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9f46b602beae27a6@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20280917
+DTEND;VALUE=DATE:20280918
+SUMMARY:اليوم العالمي لسلامة المرضى ⭐
+DESCRIPTION:السلامة والفريق\nلماذا يهمنا: من مت
+ طلبات الاعتماد (سباهي) وثقافة السلامة.\nا
+ لمقترح: مراجعة الأحداث العارضة والتحقق م
+ ن هوية المريض قبل الإجراء.\nتاريخ متوقع، 
+ يُحدَّث عند إعلان وزارة الصحة.
+CATEGORIES:السلامة والفريق
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لسلامة المرضى - بعد 3 
+ أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لسلامة المرضى - بعد أ
+ سبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0efbc4309f26eda@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20281001
+DTEND;VALUE=DATE:20281002
+SUMMARY:اليوم العالمي لكبار السن
+DESCRIPTION:فئات المرضى\nلماذا يهمنا: أطقم الأس
+ نان وجفاف الفم وصحة اللثة لدى المسنين.\nا
+ لمقترح: تسهيلات لكبار السن ومحتوى عن الع
+ ناية بالتركيبات.\nتاريخ متوقع، يُحدَّث ع
+ ند إعلان وزارة الصحة.
+CATEGORIES:فئات المرضى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لكبار السن - بعد 3 أسا
+ بيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لكبار السن - بعد أسبو
+ ع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:13bccd9f95a6fa04@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20281013
+DTEND;VALUE=DATE:20281019
+SUMMARY:الأسبوع العالمي لمكافحة العدوى ⭐
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: جوهر ال
+ عمل اليومي في عيادات الأسنان.\nالمقترح: ت
+ دقيق التعقيم وغرفة الأدوات، وتدريب الطا
+ قم على الاحتياطات القياسية.\nتاريخ متوقع
+ ، يُحدَّث عند إعلان وزارة الصحة.
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع العالمي لمكافحة العدوى - ب
+ عد 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع العالمي لمكافحة العدوى - ب
+ عد أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5f2fc1eadfbeace9@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20281015
+DTEND;VALUE=DATE:20281016
+SUMMARY:اليوم العالمي لغسل اليدين ⭐
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: نظافة ا
+ لأيدي أول خط دفاع ضد العدوى في العيادة.\nا
+ لمقترح: عرض خطوات غسل اليدين وجولة تدقيق 
+ على الالتزام.\nتاريخ متوقع، يُحدَّث عند إ
+ علان وزارة الصحة.
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لغسل اليدين - بعد 3 أس
+ ابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لغسل اليدين - بعد أسب
+ وع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eec12ccc043e5588@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20281114
+DTEND;VALUE=DATE:20281115
+SUMMARY:اليوم العالمي للسكري
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: ال
+ علاقة ثنائية الاتجاه بين السكري والتهاب 
+ اللثة.\nالمقترح: محتوى توعوي وفحص لثة لمر
+ ضى السكري.\nتاريخ متوقع، يُحدَّث عند إعلا
+ ن وزارة الصحة.
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للسكري - بعد 3 أسابيع:
+  ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للسكري - بعد أسبوع: ت
+ ذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b393eab2d46cf255@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20281118
+DTEND;VALUE=DATE:20281125
+SUMMARY:الأسبوع العالمي للتوعية بمقاومة الم
+ ضادات الحيوية
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: أطباء ا
+ لأسنان من الواصفين الرئيسيين للمضادات ا
+ لحيوية.\nالمقترح: مراجعة سياسة وصف المضاد
+ ات الحيوية في العيادات.\nتاريخ متوقع، يُح
+ دَّث عند إعلان وزارة الصحة.
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع العالمي للتوعية بمقاومة ا
+ لمضادات الحيوية - بعد 3 أسابيع: ابدأ التحض
+ ير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع العالمي للتوعية بمقاومة ا
+ لمضادات الحيوية - بعد أسبوع: تذكير أخير ل
+ لتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:57183d1a8439745b@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20281120
+DTEND;VALUE=DATE:20281121
+SUMMARY:اليوم العالمي للطفل
+DESCRIPTION:فئات المرضى\nلماذا يهمنا: صحة أسنان
+  الأطفال تبدأ من سن مبكرة.\nالمقترح: أنشطة
+  للأطفال وهدايا فرش أسنان في عيادات الأط
+ فال.\nتاريخ متوقع، يُحدَّث عند إعلان وزار
+ ة الصحة.
+CATEGORIES:فئات المرضى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للطفل - بعد 3 أسابيع: 
+ ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للطفل - بعد أسبوع: تذ
+ كير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:964a9157fe03d9c3@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20280222
+DTEND;VALUE=DATE:20280223
+SUMMARY:يوم التأسيس
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ذكرى تأسيس الدولة السعودية الأولى عام 1727
+ م، وهو إجازة رسمية.\nالمقترح: إعلان مواعي
+ د العمل في الإجازة وتهنئة المرضى على حسا
+ بات المجمع.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم التأسيس - بعد 3 أسابيع: ابدأ الت
+ حضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم التأسيس - بعد أسبوع: تذكير أخير 
+ للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2979a84f18644412@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20280321
+DTEND;VALUE=DATE:20280322
+SUMMARY:يوم الأم
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ليس مناسبة رسمية في المملكة، ويحتفل به ا
+ جتماعياً وتجارياً يوم 21 مارس.\nالمقترح: ت
+ هنئة للمريضات والموظفات، ويمكن ربطه بعر
+ ض فحص أو تنظيف للأمهات.\nمناسبة غير رسمية 
+ في المملكة.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم الأم - بعد 3 أسابيع: ابدأ التحضي
+ ر
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم الأم - بعد أسبوع: تذكير أخير للت
+ حضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bbf10fd7ff4c858e@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20280621
+DTEND;VALUE=DATE:20280622
+SUMMARY:يوم الأب
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ليس مناسبة رسمية في المملكة، ويحتفل به ا
+ جتماعياً يوم 21 يونيو.\nالمقترح: تهنئة للم
+ رضى والموظفين على حسابات المجمع.\nمناسبة 
+ غير رسمية في المملكة.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم الأب - بعد 3 أسابيع: ابدأ التحضي
+ ر
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم الأب - بعد أسبوع: تذكير أخير للت
+ حضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:19c757845aee7b80@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20280923
+DTEND;VALUE=DATE:20280924
+SUMMARY:اليوم الوطني السعودي ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ذكرى توحيد المملكة عام 1932م، وهو إجازة رس
+ مية.\nالمقترح: تزيين الفروع بالأخضر، إعلا
+ ن مواعيد الإجازة، وتهنئة وطنية على حسابا
+ ت المجمع.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم الوطني السعودي - بعد 3 أسابيع:
+  ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم الوطني السعودي - بعد أسبوع: ت
+ ذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:16492a8266b4c8ae@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20281203
+DTEND;VALUE=DATE:20281204
+SUMMARY:اليوم العالمي لذوي الإعاقة
+DESCRIPTION:فئات المرضى\nلماذا يهمنا: علاج أسنا
+ ن ذوي الاحتياجات الخاصة يتطلب تهيئة.\nالم
+ قترح: مراجعة إمكانية الوصول في الفروع وت
+ دريب الاستقبال.\nتاريخ متوقع، يُحدَّث عن
+ د إعلان وزارة الصحة.
+CATEGORIES:فئات المرضى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لذوي الإعاقة - بعد 3 أ
+ سابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لذوي الإعاقة - بعد أس
+ بوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a8bd432e454b537e@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20290204
+DTEND;VALUE=DATE:20290205
+SUMMARY:اليوم العالمي للسرطان
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: سر
+ طان الفم يُكتشف كثيراً في عيادة الأسنان 
+ أولاً.\nالمقترح: تذكير الأطباء بالفحص الر
+ وتيني للأنسجة الرخوة ونشر محتوى عن علاما
+ ت الإنذار.\nتاريخ متوقع، يُحدَّث عند إعلا
+ ن وزارة الصحة.
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للسرطان - بعد 3 أسابي
+ ع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للسرطان - بعد أسبوع: 
+ تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b5940fc42d266dd6@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20290320
+DTEND;VALUE=DATE:20290321
+SUMMARY:اليوم العالمي لصحة الفم والأسنان ⭐
+DESCRIPTION:صحة الفم والأسنان\nلماذا يهمنا: الي
+ وم الأهم في تقويم المجمع.\nالمقترح: فعالي
+ ة في الفروع، تزيين الاستقبال، عروض فحص، 
+ وحملة على التواصل الاجتماعي.\nتاريخ متوق
+ ع، يُحدَّث عند إعلان وزارة الصحة.
+CATEGORIES:صحة الفم والأسنان
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لصحة الفم والأسنان - 
+ بعد 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لصحة الفم والأسنان - 
+ بعد أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1a3ebdadcb8d3a26@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20290325
+DTEND;VALUE=DATE:20290401
+SUMMARY:الأسبوع الخليجي للفم والأسنان ⭐
+DESCRIPTION:صحة الفم والأسنان\nلماذا يهمنا: أسب
+ وع توعية خليجي كامل مخصص لصحة الفم.\nالمق
+ ترح: زيارات مدارس، ورش تفريش للأطفال، وم
+ حتوى يومي طوال الأسبوع.\nتاريخ متوقع، يُح
+ دَّث عند إعلان وزارة الصحة.
+CATEGORIES:صحة الفم والأسنان
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع الخليجي للفم والأسنان - بع
+ د 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع الخليجي للفم والأسنان - بع
+ د أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4acfa2eb257e0b4f@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20290407
+DTEND;VALUE=DATE:20290408
+SUMMARY:يوم الصحة العالمي
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: صح
+ ة الفم جزء من الصحة العامة.\nالمقترح: ربط 
+ رسالة اليوم بالفحص الدوري للأسنان.\nتاري
+ خ متوقع، يُحدَّث عند إعلان وزارة الصحة.
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم الصحة العالمي - بعد 3 أسابيع: اب
+ دأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم الصحة العالمي - بعد أسبوع: تذكي
+ ر أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39447894c019fd25@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20290426
+DTEND;VALUE=DATE:20290501
+SUMMARY:الأسبوع العالمي للتحصينات
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: حماية ا
+ لطاقم من التهاب الكبد B والأمراض المعدية.
+ \nالمقترح: مراجعة سجل تطعيمات الموظفين وا
+ ستكمال الناقص.\nتاريخ متوقع، يُحدَّث عند 
+ إعلان وزارة الصحة.
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع العالمي للتحصينات - بعد 3 أ
+ سابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع العالمي للتحصينات - بعد أس
+ بوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6fabec00c2ae8ea3@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20290512
+DTEND;VALUE=DATE:20290513
+SUMMARY:اليوم العالمي للتمريض
+DESCRIPTION:السلامة والفريق\nلماذا يهمنا: تقدي
+ ر مساعدي الأطباء وطاقم التمريض في العياد
+ ات.\nالمقترح: رسالة شكر ولفتة تقدير للفري
+ ق.\nتاريخ متوقع، يُحدَّث عند إعلان وزارة 
+ الصحة.
+CATEGORIES:السلامة والفريق
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للتمريض - بعد 3 أسابي
+ ع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للتمريض - بعد أسبوع: 
+ تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aaaf12282d9bd5e5@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20290531
+DTEND;VALUE=DATE:20290601
+SUMMARY:اليوم العالمي لمكافحة التدخين
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: ال
+ تدخين يسبب أمراض اللثة والتصبغات وسرطان 
+ الفم.\nالمقترح: توعية المرضى المدخنين وتو
+ جيههم لعيادات الإقلاع.\nتاريخ متوقع، يُح
+ دَّث عند إعلان وزارة الصحة.
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لمكافحة التدخين - بع
+ د 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لمكافحة التدخين - بع
+ د أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4023f32ba73b0453@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:اليوم العالمي لسلامة المرضى ⭐
+DESCRIPTION:السلامة والفريق\nلماذا يهمنا: من مت
+ طلبات الاعتماد (سباهي) وثقافة السلامة.\nا
+ لمقترح: مراجعة الأحداث العارضة والتحقق م
+ ن هوية المريض قبل الإجراء.\nتاريخ متوقع، 
+ يُحدَّث عند إعلان وزارة الصحة.
+CATEGORIES:السلامة والفريق
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لسلامة المرضى - بعد 3 
+ أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لسلامة المرضى - بعد أ
+ سبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:717aa29153ce3306@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20291001
+DTEND;VALUE=DATE:20291002
+SUMMARY:اليوم العالمي لكبار السن
+DESCRIPTION:فئات المرضى\nلماذا يهمنا: أطقم الأس
+ نان وجفاف الفم وصحة اللثة لدى المسنين.\nا
+ لمقترح: تسهيلات لكبار السن ومحتوى عن الع
+ ناية بالتركيبات.\nتاريخ متوقع، يُحدَّث ع
+ ند إعلان وزارة الصحة.
+CATEGORIES:فئات المرضى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لكبار السن - بعد 3 أسا
+ بيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لكبار السن - بعد أسبو
+ ع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4bcb88220c3a4807@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20291013
+DTEND;VALUE=DATE:20291019
+SUMMARY:الأسبوع العالمي لمكافحة العدوى ⭐
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: جوهر ال
+ عمل اليومي في عيادات الأسنان.\nالمقترح: ت
+ دقيق التعقيم وغرفة الأدوات، وتدريب الطا
+ قم على الاحتياطات القياسية.\nتاريخ متوقع
+ ، يُحدَّث عند إعلان وزارة الصحة.
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع العالمي لمكافحة العدوى - ب
+ عد 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع العالمي لمكافحة العدوى - ب
+ عد أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a983cccd118d063f@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20291015
+DTEND;VALUE=DATE:20291016
+SUMMARY:اليوم العالمي لغسل اليدين ⭐
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: نظافة ا
+ لأيدي أول خط دفاع ضد العدوى في العيادة.\nا
+ لمقترح: عرض خطوات غسل اليدين وجولة تدقيق 
+ على الالتزام.\nتاريخ متوقع، يُحدَّث عند إ
+ علان وزارة الصحة.
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لغسل اليدين - بعد 3 أس
+ ابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لغسل اليدين - بعد أسب
+ وع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7ba05e9f985f877a@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20291114
+DTEND;VALUE=DATE:20291115
+SUMMARY:اليوم العالمي للسكري
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: ال
+ علاقة ثنائية الاتجاه بين السكري والتهاب 
+ اللثة.\nالمقترح: محتوى توعوي وفحص لثة لمر
+ ضى السكري.\nتاريخ متوقع، يُحدَّث عند إعلا
+ ن وزارة الصحة.
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للسكري - بعد 3 أسابيع:
+  ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للسكري - بعد أسبوع: ت
+ ذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49d86f9868c682c3@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20291118
+DTEND;VALUE=DATE:20291125
+SUMMARY:الأسبوع العالمي للتوعية بمقاومة الم
+ ضادات الحيوية
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: أطباء ا
+ لأسنان من الواصفين الرئيسيين للمضادات ا
+ لحيوية.\nالمقترح: مراجعة سياسة وصف المضاد
+ ات الحيوية في العيادات.\nتاريخ متوقع، يُح
+ دَّث عند إعلان وزارة الصحة.
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع العالمي للتوعية بمقاومة ا
+ لمضادات الحيوية - بعد 3 أسابيع: ابدأ التحض
+ ير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع العالمي للتوعية بمقاومة ا
+ لمضادات الحيوية - بعد أسبوع: تذكير أخير ل
+ لتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4710c9e1c327c6e1@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20291120
+DTEND;VALUE=DATE:20291121
+SUMMARY:اليوم العالمي للطفل
+DESCRIPTION:فئات المرضى\nلماذا يهمنا: صحة أسنان
+  الأطفال تبدأ من سن مبكرة.\nالمقترح: أنشطة
+  للأطفال وهدايا فرش أسنان في عيادات الأط
+ فال.\nتاريخ متوقع، يُحدَّث عند إعلان وزار
+ ة الصحة.
+CATEGORIES:فئات المرضى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للطفل - بعد 3 أسابيع: 
+ ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للطفل - بعد أسبوع: تذ
+ كير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2e05fe9787238637@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20290222
+DTEND;VALUE=DATE:20290223
+SUMMARY:يوم التأسيس
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ذكرى تأسيس الدولة السعودية الأولى عام 1727
+ م، وهو إجازة رسمية.\nالمقترح: إعلان مواعي
+ د العمل في الإجازة وتهنئة المرضى على حسا
+ بات المجمع.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم التأسيس - بعد 3 أسابيع: ابدأ الت
+ حضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم التأسيس - بعد أسبوع: تذكير أخير 
+ للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:92e7376c0060f2c0@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20290321
+DTEND;VALUE=DATE:20290322
+SUMMARY:يوم الأم
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ليس مناسبة رسمية في المملكة، ويحتفل به ا
+ جتماعياً وتجارياً يوم 21 مارس.\nالمقترح: ت
+ هنئة للمريضات والموظفات، ويمكن ربطه بعر
+ ض فحص أو تنظيف للأمهات.\nمناسبة غير رسمية 
+ في المملكة.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم الأم - بعد 3 أسابيع: ابدأ التحضي
+ ر
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم الأم - بعد أسبوع: تذكير أخير للت
+ حضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7574fbcda57a99cf@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20290621
+DTEND;VALUE=DATE:20290622
+SUMMARY:يوم الأب
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ليس مناسبة رسمية في المملكة، ويحتفل به ا
+ جتماعياً يوم 21 يونيو.\nالمقترح: تهنئة للم
+ رضى والموظفين على حسابات المجمع.\nمناسبة 
+ غير رسمية في المملكة.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم الأب - بعد 3 أسابيع: ابدأ التحضي
+ ر
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم الأب - بعد أسبوع: تذكير أخير للت
+ حضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:be65901ae5a15f94@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20290923
+DTEND;VALUE=DATE:20290924
+SUMMARY:اليوم الوطني السعودي ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ذكرى توحيد المملكة عام 1932م، وهو إجازة رس
+ مية.\nالمقترح: تزيين الفروع بالأخضر، إعلا
+ ن مواعيد الإجازة، وتهنئة وطنية على حسابا
+ ت المجمع.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم الوطني السعودي - بعد 3 أسابيع:
+  ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم الوطني السعودي - بعد أسبوع: ت
+ ذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cb83ff458091a482@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20291203
+DTEND;VALUE=DATE:20291204
+SUMMARY:اليوم العالمي لذوي الإعاقة
+DESCRIPTION:فئات المرضى\nلماذا يهمنا: علاج أسنا
+ ن ذوي الاحتياجات الخاصة يتطلب تهيئة.\nالم
+ قترح: مراجعة إمكانية الوصول في الفروع وت
+ دريب الاستقبال.\nتاريخ متوقع، يُحدَّث عن
+ د إعلان وزارة الصحة.
+CATEGORIES:فئات المرضى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لذوي الإعاقة - بعد 3 أ
+ سابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لذوي الإعاقة - بعد أس
+ بوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8b539ef3b4b49c78@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20300204
+DTEND;VALUE=DATE:20300205
+SUMMARY:اليوم العالمي للسرطان
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: سر
+ طان الفم يُكتشف كثيراً في عيادة الأسنان 
+ أولاً.\nالمقترح: تذكير الأطباء بالفحص الر
+ وتيني للأنسجة الرخوة ونشر محتوى عن علاما
+ ت الإنذار.\nتاريخ متوقع، يُحدَّث عند إعلا
+ ن وزارة الصحة.
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للسرطان - بعد 3 أسابي
+ ع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للسرطان - بعد أسبوع: 
+ تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3174838a9ebd5c60@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20300320
+DTEND;VALUE=DATE:20300321
+SUMMARY:اليوم العالمي لصحة الفم والأسنان ⭐
+DESCRIPTION:صحة الفم والأسنان\nلماذا يهمنا: الي
+ وم الأهم في تقويم المجمع.\nالمقترح: فعالي
+ ة في الفروع، تزيين الاستقبال، عروض فحص، 
+ وحملة على التواصل الاجتماعي.\nتاريخ متوق
+ ع، يُحدَّث عند إعلان وزارة الصحة.
+CATEGORIES:صحة الفم والأسنان
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لصحة الفم والأسنان - 
+ بعد 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لصحة الفم والأسنان - 
+ بعد أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a2487bc78b3491f0@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20300325
+DTEND;VALUE=DATE:20300401
+SUMMARY:الأسبوع الخليجي للفم والأسنان ⭐
+DESCRIPTION:صحة الفم والأسنان\nلماذا يهمنا: أسب
+ وع توعية خليجي كامل مخصص لصحة الفم.\nالمق
+ ترح: زيارات مدارس، ورش تفريش للأطفال، وم
+ حتوى يومي طوال الأسبوع.\nتاريخ متوقع، يُح
+ دَّث عند إعلان وزارة الصحة.
+CATEGORIES:صحة الفم والأسنان
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع الخليجي للفم والأسنان - بع
+ د 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع الخليجي للفم والأسنان - بع
+ د أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4dd443dca939e7ce@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20300407
+DTEND;VALUE=DATE:20300408
+SUMMARY:يوم الصحة العالمي
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: صح
+ ة الفم جزء من الصحة العامة.\nالمقترح: ربط 
+ رسالة اليوم بالفحص الدوري للأسنان.\nتاري
+ خ متوقع، يُحدَّث عند إعلان وزارة الصحة.
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم الصحة العالمي - بعد 3 أسابيع: اب
+ دأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم الصحة العالمي - بعد أسبوع: تذكي
+ ر أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cc2b0c712253a7d1@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20300426
+DTEND;VALUE=DATE:20300501
+SUMMARY:الأسبوع العالمي للتحصينات
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: حماية ا
+ لطاقم من التهاب الكبد B والأمراض المعدية.
+ \nالمقترح: مراجعة سجل تطعيمات الموظفين وا
+ ستكمال الناقص.\nتاريخ متوقع، يُحدَّث عند 
+ إعلان وزارة الصحة.
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع العالمي للتحصينات - بعد 3 أ
+ سابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع العالمي للتحصينات - بعد أس
+ بوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2cbe62506c7a5b5f@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20300512
+DTEND;VALUE=DATE:20300513
+SUMMARY:اليوم العالمي للتمريض
+DESCRIPTION:السلامة والفريق\nلماذا يهمنا: تقدي
+ ر مساعدي الأطباء وطاقم التمريض في العياد
+ ات.\nالمقترح: رسالة شكر ولفتة تقدير للفري
+ ق.\nتاريخ متوقع، يُحدَّث عند إعلان وزارة 
+ الصحة.
+CATEGORIES:السلامة والفريق
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للتمريض - بعد 3 أسابي
+ ع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للتمريض - بعد أسبوع: 
+ تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2269e1dd2c62cea6@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20300531
+DTEND;VALUE=DATE:20300601
+SUMMARY:اليوم العالمي لمكافحة التدخين
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: ال
+ تدخين يسبب أمراض اللثة والتصبغات وسرطان 
+ الفم.\nالمقترح: توعية المرضى المدخنين وتو
+ جيههم لعيادات الإقلاع.\nتاريخ متوقع، يُح
+ دَّث عند إعلان وزارة الصحة.
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لمكافحة التدخين - بع
+ د 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لمكافحة التدخين - بع
+ د أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e212211f54bf86ec@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20300917
+DTEND;VALUE=DATE:20300918
+SUMMARY:اليوم العالمي لسلامة المرضى ⭐
+DESCRIPTION:السلامة والفريق\nلماذا يهمنا: من مت
+ طلبات الاعتماد (سباهي) وثقافة السلامة.\nا
+ لمقترح: مراجعة الأحداث العارضة والتحقق م
+ ن هوية المريض قبل الإجراء.\nتاريخ متوقع، 
+ يُحدَّث عند إعلان وزارة الصحة.
+CATEGORIES:السلامة والفريق
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لسلامة المرضى - بعد 3 
+ أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لسلامة المرضى - بعد أ
+ سبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d885e7a5251f98e2@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20301001
+DTEND;VALUE=DATE:20301002
+SUMMARY:اليوم العالمي لكبار السن
+DESCRIPTION:فئات المرضى\nلماذا يهمنا: أطقم الأس
+ نان وجفاف الفم وصحة اللثة لدى المسنين.\nا
+ لمقترح: تسهيلات لكبار السن ومحتوى عن الع
+ ناية بالتركيبات.\nتاريخ متوقع، يُحدَّث ع
+ ند إعلان وزارة الصحة.
+CATEGORIES:فئات المرضى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لكبار السن - بعد 3 أسا
+ بيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لكبار السن - بعد أسبو
+ ع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a196bab4cd9adef1@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20301013
+DTEND;VALUE=DATE:20301019
+SUMMARY:الأسبوع العالمي لمكافحة العدوى ⭐
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: جوهر ال
+ عمل اليومي في عيادات الأسنان.\nالمقترح: ت
+ دقيق التعقيم وغرفة الأدوات، وتدريب الطا
+ قم على الاحتياطات القياسية.\nتاريخ متوقع
+ ، يُحدَّث عند إعلان وزارة الصحة.
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع العالمي لمكافحة العدوى - ب
+ عد 3 أسابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع العالمي لمكافحة العدوى - ب
+ عد أسبوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9b3826d48c9d7fd8@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20301015
+DTEND;VALUE=DATE:20301016
+SUMMARY:اليوم العالمي لغسل اليدين ⭐
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: نظافة ا
+ لأيدي أول خط دفاع ضد العدوى في العيادة.\nا
+ لمقترح: عرض خطوات غسل اليدين وجولة تدقيق 
+ على الالتزام.\nتاريخ متوقع، يُحدَّث عند إ
+ علان وزارة الصحة.
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لغسل اليدين - بعد 3 أس
+ ابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لغسل اليدين - بعد أسب
+ وع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5ede4bdcd0846256@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20301114
+DTEND;VALUE=DATE:20301115
+SUMMARY:اليوم العالمي للسكري
+DESCRIPTION:أمراض مرتبطة بالفم\nلماذا يهمنا: ال
+ علاقة ثنائية الاتجاه بين السكري والتهاب 
+ اللثة.\nالمقترح: محتوى توعوي وفحص لثة لمر
+ ضى السكري.\nتاريخ متوقع، يُحدَّث عند إعلا
+ ن وزارة الصحة.
+CATEGORIES:أمراض مرتبطة بالفم
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للسكري - بعد 3 أسابيع:
+  ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للسكري - بعد أسبوع: ت
+ ذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d17005a3e7dc3eb9@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20301118
+DTEND;VALUE=DATE:20301125
+SUMMARY:الأسبوع العالمي للتوعية بمقاومة الم
+ ضادات الحيوية
+DESCRIPTION:مكافحة العدوى\nلماذا يهمنا: أطباء ا
+ لأسنان من الواصفين الرئيسيين للمضادات ا
+ لحيوية.\nالمقترح: مراجعة سياسة وصف المضاد
+ ات الحيوية في العيادات.\nتاريخ متوقع، يُح
+ دَّث عند إعلان وزارة الصحة.
+CATEGORIES:مكافحة العدوى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:الأسبوع العالمي للتوعية بمقاومة ا
+ لمضادات الحيوية - بعد 3 أسابيع: ابدأ التحض
+ ير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:الأسبوع العالمي للتوعية بمقاومة ا
+ لمضادات الحيوية - بعد أسبوع: تذكير أخير ل
+ لتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e247c3765bbe729c@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20301120
+DTEND;VALUE=DATE:20301121
+SUMMARY:اليوم العالمي للطفل
+DESCRIPTION:فئات المرضى\nلماذا يهمنا: صحة أسنان
+  الأطفال تبدأ من سن مبكرة.\nالمقترح: أنشطة
+  للأطفال وهدايا فرش أسنان في عيادات الأط
+ فال.\nتاريخ متوقع، يُحدَّث عند إعلان وزار
+ ة الصحة.
+CATEGORIES:فئات المرضى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي للطفل - بعد 3 أسابيع: 
+ ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي للطفل - بعد أسبوع: تذ
+ كير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33711d4f924344c2@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20300222
+DTEND;VALUE=DATE:20300223
+SUMMARY:يوم التأسيس
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ذكرى تأسيس الدولة السعودية الأولى عام 1727
+ م، وهو إجازة رسمية.\nالمقترح: إعلان مواعي
+ د العمل في الإجازة وتهنئة المرضى على حسا
+ بات المجمع.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم التأسيس - بعد 3 أسابيع: ابدأ الت
+ حضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم التأسيس - بعد أسبوع: تذكير أخير 
+ للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:219b9221597b3342@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20300321
+DTEND;VALUE=DATE:20300322
+SUMMARY:يوم الأم
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ليس مناسبة رسمية في المملكة، ويحتفل به ا
+ جتماعياً وتجارياً يوم 21 مارس.\nالمقترح: ت
+ هنئة للمريضات والموظفات، ويمكن ربطه بعر
+ ض فحص أو تنظيف للأمهات.\nمناسبة غير رسمية 
+ في المملكة.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم الأم - بعد 3 أسابيع: ابدأ التحضي
+ ر
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم الأم - بعد أسبوع: تذكير أخير للت
+ حضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4835794897583a95@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20300621
+DTEND;VALUE=DATE:20300622
+SUMMARY:يوم الأب
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ليس مناسبة رسمية في المملكة، ويحتفل به ا
+ جتماعياً يوم 21 يونيو.\nالمقترح: تهنئة للم
+ رضى والموظفين على حسابات المجمع.\nمناسبة 
+ غير رسمية في المملكة.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:يوم الأب - بعد 3 أسابيع: ابدأ التحضي
+ ر
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:يوم الأب - بعد أسبوع: تذكير أخير للت
+ حضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9edb8a1510ec1261@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20300923
+DTEND;VALUE=DATE:20300924
+SUMMARY:اليوم الوطني السعودي ⭐
+DESCRIPTION:مناسبات وطنية ودينية\nلماذا يهمنا: 
+ ذكرى توحيد المملكة عام 1932م، وهو إجازة رس
+ مية.\nالمقترح: تزيين الفروع بالأخضر، إعلا
+ ن مواعيد الإجازة، وتهنئة وطنية على حسابا
+ ت المجمع.
+CATEGORIES:مناسبات وطنية ودينية
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم الوطني السعودي - بعد 3 أسابيع:
+  ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم الوطني السعودي - بعد أسبوع: ت
+ ذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eadf7e226a54d292@shamdental-calendar
+DTSTAMP:20261002T090000Z
+DTSTART;VALUE=DATE:20301203
+DTEND;VALUE=DATE:20301204
+SUMMARY:اليوم العالمي لذوي الإعاقة
+DESCRIPTION:فئات المرضى\nلماذا يهمنا: علاج أسنا
+ ن ذوي الاحتياجات الخاصة يتطلب تهيئة.\nالم
+ قترح: مراجعة إمكانية الوصول في الفروع وت
+ دريب الاستقبال.\nتاريخ متوقع، يُحدَّث عن
+ د إعلان وزارة الصحة.
+CATEGORIES:فئات المرضى
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P20DT15H
+DESCRIPTION:اليوم العالمي لذوي الإعاقة - بعد 3 أ
+ سابيع: ابدأ التحضير
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P6DT15H
+DESCRIPTION:اليوم العالمي لذوي الإعاقة - بعد أس
+ بوع: تذكير أخير للتحضير
+END:VALARM
+END:VEVENT
+END:VCALENDAR
